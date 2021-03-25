@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @karunyam90
+- 👋 Hi, I’m @karunya Mohan
 - 👀 I’m interested in web developing 
 - 🌱 I’m currently learning HTML5,CSS3 and Javascript (libraries and frameworks)
 - 💞️ I’m looking to collaborate on Open source projects
